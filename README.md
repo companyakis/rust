@@ -1,4 +1,4 @@
 # Rust
 
-Coming soon...
+Coursera Duke University Rust Programming Specialization
 
